@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <div style="background-color: #0d0f14">
+    <head>
+      <meta charset="UTF-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta http-equiv="X-UA-Compatible" content="ie=edge">
+      <title>ABM Studios Site</title>
+      <link rel="stylesheet" href="style.css">
+      <link rel="preconnect" href="https://fonts.googleapis.com">
+      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+      <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+      <h1 class="nunito-header">ABM Studios</h1>
+    </head>
+    <body>
+      <script src="index.js"></script>
+    </body>
+  </div>
+</html>
