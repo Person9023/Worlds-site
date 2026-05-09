@@ -24,7 +24,7 @@
   background-color: black;
 }
 .navbar li{
-  float: left;
+  float: center;
 }
 body{
   margin: 0px;
